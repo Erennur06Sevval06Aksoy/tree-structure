@@ -1,0 +1,9 @@
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\bin\Debug\AĞAÇ yapısı final2.exe.config
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\bin\Debug\AĞAÇ yapısı final2.exe
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\bin\Debug\AĞAÇ yapısı final2.pdb
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\obj\Debug\AĞAÇ yapısı final2.csprojResolveAssemblyReference.cache
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\obj\Debug\AĞAÇ_yapısı_final2.Form1.resources
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\obj\Debug\AĞAÇ_yapısı_final2.Properties.Resources.resources
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\obj\Debug\AĞAÇ yapısı final2.csproj.GenerateResource.Cache
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\obj\Debug\AĞAÇ yapısı final2.exe
+C:\Users\Şevval\Desktop\Projelerim\Veri yapıları\AĞAÇ yapısı final2\AĞAÇ yapısı final2\obj\Debug\AĞAÇ yapısı final2.pdb
